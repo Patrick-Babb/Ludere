@@ -9,7 +9,7 @@ on:
 
 jobs:
   autogen:
-    runs-on: LargeRunners
+    runs-on: Linuxx64
 
     steps:
       - uses: actions/checkout@v2
