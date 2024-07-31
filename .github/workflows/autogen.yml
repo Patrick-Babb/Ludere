@@ -9,7 +9,7 @@ on:
 
 jobs:
   autogen:
-    runs-on: linux2core
+    runs-on: windows8core
 
     steps:
       - uses: actions/checkout@v2
