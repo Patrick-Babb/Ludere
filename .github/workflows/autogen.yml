@@ -9,7 +9,7 @@ on:
 
 jobs:
   autogen:
-    runs-on: ubuntu-latest
+    runs-on: LargeRunners
 
     steps:
       - uses: actions/checkout@v2
